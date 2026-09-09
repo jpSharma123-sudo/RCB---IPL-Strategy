@@ -1,4 +1,8 @@
 # 🏏 RCB IPL Performance & Mega Auction Analysis
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-orange)
+![IPL](https://img.shields.io/badge/IPL-Sports%20Analytics-green)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
 
 ## 📌 Project Overview
 
